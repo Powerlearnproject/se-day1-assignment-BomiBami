@@ -65,7 +65,6 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Generate an image of headsets.
 Generate and image od the steel series gaming headsets developed in 2012, that are white with oradifference is that i offered much more specific descriptionils. I offered clarity. 
 
-git add.
 
 
 
